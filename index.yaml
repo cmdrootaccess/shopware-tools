@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  shopware-chart:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-05-19T15:42:43.441201+02:00"
+    description: Shopware deployment Helm chart for Kubernetes
+    digest: c616612d8c1a1f6ec99f8c7cd77feff3f4a69c8b7e1e12dc47ab393550b9977e
+    name: shopware-chart
+    urls:
+    - https://cmdrootaccess.github.io/shopware-tools/shopware-chart-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-05-19T15:42:43.44017+02:00"
